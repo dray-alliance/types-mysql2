@@ -19,6 +19,6 @@
     "typings": "^2.0.0"
   },
   "dependencies": {
-    "@types/mysql": "types/mysql"
+    "@types/mysql": "^2.15.9"
   }
 }
