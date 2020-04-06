@@ -1,5 +1,5 @@
 {
-  "name": "@types/mysql2",
+  "name": "@drayalliance/types-mysql2",
   "version": "1.0.0",
   "description": "Typings for mysql2",
   "scripts": {
