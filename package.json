@@ -1,6 +1,6 @@
 {
   "name": "@drayalliance/types-mysql2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typings for mysql2",
   "scripts": {
     "build": "typings bundle -o test/bundle.d.ts",
